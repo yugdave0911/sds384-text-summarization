@@ -1,6 +1,5 @@
-# sds384-text-summarization
-## Members: Aditya Anekar, Jaimik Patel, Srishti Shankar, Yug Dave
 # Text Summarization using Deep Learning
+### Members: Aditya Anekar, Jaimik Patel, Srishti Shankar, Yug Dave
 
 ## Project Description:
 
